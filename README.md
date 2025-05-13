@@ -11,6 +11,7 @@ All intellectual property rights are retained by the startup behind the app. Ple
 ## 🧪 Demo Login
 
 You can try a demo version of the app using the following credentials:
+(Keep in Mind currently only available on the Appstore US)
 
 email: etrovedemo@gmail.com
 password: 12345678
